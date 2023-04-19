@@ -3,7 +3,7 @@
  
 Me chamo Lucas dos Santos, residente de Brasília e disponivel para freelas, trabalho remoto e alocado na minha região.
  
-Sou programador Front-end Junior, até o presente momento com noções de HTML, CSS, JavaScript, React, Git e GitHub.
+Sou programador Front-end Junior em formação, até o presente momento com noções de HTML, CSS, JavaScript, Git e GitHub.
 
  
 #### About me 
